@@ -5,6 +5,8 @@ Advanced Number Guess Game is an advanced version of the simple number guessing 
 
 This application was developed with .Net 6, Visual Studio 2022. Developed with Windows 11.
 
+https://youtu.be/nN5R8fecCLs
+
 Download:https://emreki.art.blog/advanced-number-guess-game/
 
 WebSite = https://emreki.art.blog/
